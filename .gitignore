@@ -1,0 +1,9 @@
+.idea
+.idea/
+.DS_Store
+.vscode/
+al_ma_thesis_tjong.egg-info/
+*pycache*
+data/
+results/
+venv/
