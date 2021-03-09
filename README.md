@@ -27,12 +27,12 @@ Average IOU: ± 0.65 IOU using DeeplabV3 [*(link)*](https://paperswithcode.com/m
 #### MNIST
 Image recognition on Handwritten digits [*(link)*](http://yann.lecun.com/exdb/mnist/)
 
-![](image_examples/mnist_example.png)
+<img src=image_examples/mnist_example.png width="30%">.
 
 #### Cityscapes
 Traffic sceneries taken in Germany [*(link)*](https://www.cityscapes-dataset.com/)
 
-![](image_examples/cityscapes_example.png)
+<img src=image_examples/cityscapes_example.png width="30%">.
 
 ## Sources
 
