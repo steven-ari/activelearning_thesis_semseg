@@ -11,7 +11,7 @@ In this thesis, two variant of active learning methods were applied (blue and or
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src=image_examples/bulk_mini_all.png width="60%">.
 
 
-2. Model: DeeplabV3 
+2. Model: DeeplabV3 [*(link)*](https://paperswithcode.com/method/deeplabv3#:~:text=DeepLabv3%20is%20a%20semantic%20segmentation,by%20adopting%20multiple%20atrous%20rates.)
 
 Comparison of QBC vs without AL on different sample sizes. Each datapoint and its whisker represents 5 experiments. The red line shows the changes of accuracy related to changes of number of training sample for random sample selection setting. Noticable difference with previous result: Since DeeplabV3 is a larger model, it is therefore a more challenging one to reduce the demand for training data.
 
