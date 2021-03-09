@@ -6,7 +6,7 @@ Reducing demand for training model for semantic segmentation using Active Learni
 
 1. Model: VGG19 as Encoder + U-Net as Classifier: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this thesis, two variant of active learning methods were applied (blue and orange), and both shows improvement in information gain on the same amount of training sample allowed.
+In this thesis, two variant of active learning methods were applied (blue and orange), and both shows improvement in information gain on the same amount of training sample allowed.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src=image_examples/bulk_mini_all.png width="60%">.
 
